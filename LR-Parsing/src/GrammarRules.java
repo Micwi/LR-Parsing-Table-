@@ -1,5 +1,5 @@
 import java.util.Stack;
-
+//@author Micwi
 public class GrammarRules extends MainClass {
 	public String number = "";
 	int stackSize = 0;
