@@ -6,7 +6,7 @@ import java.util.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
-
+//@author Micwi
 public class parsingTableClass {
 	public static JTable table;
 	public static JFrame frame;
