@@ -1,9 +1,9 @@
 import java.util.*;
 import javax.swing.*;
 /*
- * @author Louie Patrizi
+ * @author Micwi
  * 
- * CSCI-621 Midterm Assignment - Prof. Li
+ * 
  */
 public class MainClass {
 	public static Stack<String> stack = new Stack<String>(); //initialize stack of type String
